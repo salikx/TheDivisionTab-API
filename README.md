@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Official ApexTab API Documentation</h3>
+  <h1 align="center">Official TheDivisionTab API Documentation</h3>
 </p>
 
 <hr>
